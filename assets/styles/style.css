@@ -3,6 +3,11 @@ body {
     color: #FFF;
 }
 
+canvas {
+    width: 100%;
+    height: auto;
+}
+
 .box {
     background-color: #343a40;
     border-radius: 10px;
